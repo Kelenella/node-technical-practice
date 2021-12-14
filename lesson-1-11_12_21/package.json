@@ -1,0 +1,15 @@
+{
+  "name": "lesson-1-11_12_21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js petro=pizza",
+    "dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
