@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js petro=pizza",
+    "start": "node main.js",
     "dev": "nodemon main.js"
   },
   "author": "",

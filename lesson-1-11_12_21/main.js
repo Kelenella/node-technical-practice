@@ -6,4 +6,4 @@
 // console.log("Hello");
 // console.log(process.argv);
 //!Все, что мы пишем справа от ноды попадает в process.argv
-require("./calc-basic");
+require("./calc-basic.js");
